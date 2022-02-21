@@ -1,4 +1,4 @@
-<img src="/assets/logo.jpeg" align=center>
+<img src="logo.jpeg" align=center>
 
 # Who i am?
 Hello, im hen2527 is a minecraft server developer on some my network. Im working alot related things to minecraft. I like to helping people who trust me and give them some love to what they i am.
