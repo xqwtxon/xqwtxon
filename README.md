@@ -10,5 +10,5 @@ Im officially code PHP, C++, and C#, i love very well coding.
 [My Website](https://hen2527.tk/)<br>
 [PrideMC Network Discord](https://discord.gg/kpAdXNCmRR)
 # Performance
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=xqwtxon&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fffff)](https://github.com/xqwtxon)<br>
-[![Github Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=xqwtxon&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/xqwtxon)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=xqwtxon&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=dark)](https://github.com/xqwtxon)<br>
+[![Github Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=xqwtxon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=dark)](https://github.com/xqwtxon)
