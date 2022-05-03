@@ -9,3 +9,5 @@ Im officially code PHP, C++, and C#, i love very well coding.
 # Links
 [My Website](https://hen2527.tk/)<br>
 [PrideMC Network Discord](https://discord.gg/kpAdXNCmRR)
+# Performance
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=xqwtxon&show_icons=true&theme=dark)](https://github.com/xqwtxon)<br>
