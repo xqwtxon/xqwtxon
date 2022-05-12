@@ -1,8 +1,3 @@
-<img align=right src="2eedfb74-d92e-4a94-bcc8-6cadb84aaec3.png" align=center>
-
-# I am xqwtxon <img src=https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966 height=30 width=30>
-
-<h2 align=center>My Performance</h2>
 <h1 align="center">Hi 👋, I'm xqwtxon</h1>
 <h3 align="center">I do alot of things related to minecraft!</h3>
 
@@ -27,6 +22,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xqwtxon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xqwtxon" /></a><a href="https://ko-fi.com/xqwtxon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="xqwtxon" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xqwtxon&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=424242&hide_border=true&locale=en&layout=compact" alt="xqwtxon" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xqwtxon&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=424242&hide_border=true&locale=en&layout=compact" alt="xqwtxon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xqwtxon&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=424242&hide_border=true&locale=en" alt="xqwtxon" /></p>
