@@ -22,6 +22,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xqwtxon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xqwtxon" /></a><a href="https://ko-fi.com/xqwtxon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="xqwtxon" /></a></p><br><br>
 
+<h3 align="left">Performance</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xqwtxon&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=424242&hide_border=true&locale=en&layout=compact" alt="xqwtxon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xqwtxon&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=424242&hide_border=true&locale=en" alt="xqwtxon" /></p>
