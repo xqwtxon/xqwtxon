@@ -24,4 +24,4 @@
 <br><br>
 <h3 align="left">Performance</h3>
 <p><img align="left" size='50' src="https://github-readme-stats.vercel.app/api/top-langs?username=xqwtxon&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=424242&hide_border=true&locale=en&layout=compact" alt="xqwtxon" /><h2 align=center>Learning new languages and grew softwares and developments. Everyday i learned languages and each day new knowledges comes.</h2></p>
-<p>&nbsp;<img align="right" size='50' src="https://github-readme-stats.vercel.app/api?username=xqwtxon&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=424242&hide_border=true&locale=en" alt="xqwtxon" /><h2 align=right>Grained some skills everday from my life.</h2></p>
+<p>&nbsp;<img align="right" size='50' src="https://github-readme-stats.vercel.app/api?username=xqwtxon&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=424242&hide_border=true&locale=en" alt="xqwtxon" /><h2 align=center>Grained some skills everday from my life.</h2></p>
