@@ -17,7 +17,7 @@
 </p>
 <h3 align="center">Stats and Languages</h3>
 <p align="center">
-<a href="https://github.com/xqwtxon"><img src="https://github-readme-stats.vercel.app/api?username=xqwtxon&theme=dark&show_icons=true&hide_rank=true"></a><br>
+<a href="https://github.com/xqwtxon"><img src="https://github-readme-stats.vercel.app/api?username=xqwtxon&theme=dark&show_icons=true"></a><br>
 <a href="https://github.com/xqwtxon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xqwtxon&theme=dark&show_icons=true&layout=compact"></a>
 </p>
 <h3 align="center">Support:</h3>
