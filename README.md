@@ -38,6 +38,16 @@
    <summary><b>Languages</b></summary>
    
    ##### Written Languages
-   Nothing to be done here. 
+   - **PHP:** I write this language for people judgement to review the code.
+   - **Javascript:** you know seriously its funny tiny language :joy:
+   - **C#:** I make programs such as autoclicker, etc.
+   - **C++:** I contribute to game cheats and more bedrock hacking clients.
+   - **Rust:** Please not now. :joy:
+   - **Python:** Sneeking budy inside of code. Lmafo
+   - **Ruby:** Not such better. But sucks.
+   - **Malbolge:** Get bully by program, i hate this one.
+   - **Vim:** Bruh
+   - **HTML & CSS:** High-School Easy Programming. Learned since High-School...
+   - **TypeScript:** Making npm projects so easily...
 
 </details>
