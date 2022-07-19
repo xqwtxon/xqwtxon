@@ -12,7 +12,6 @@
   - [`@ReinfyTeam`](https://github.com/ReinfyTeam)
   - [`@PrideMC`](https://github.com/PrideMC)
   - [`@Minco-Inc`](https://github.com/Minco-Inc)
-  - [`@nhanz-pm-pl`](https://github.com/nhanz-pm-pl)
 
 #### Performance
 <details>
