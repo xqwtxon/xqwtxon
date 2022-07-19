@@ -16,9 +16,9 @@
 
 #### Performance
 <details>
-   <summary>Statistics</summary>
+   <summary><b>Statistics</b></summary>
 
-   ##### Performance
+   ##### Github Statistics
    [![](https://github-readme-stats.vercel.app/api?username=xqwtxon&count_private=true&show_icons=true)](https://github.com/xqwtxon)
    ##### Top Languages
    [![](https://github-readme-stats.vercel.app/api/top-langs/?username=xqwtxon&layout=compact)](https://github.com/xqwtxon)
@@ -33,4 +33,12 @@
    ##### Discord Status
    [![](https://lanyard.cnrad.dev/api/975611185418371072?idle_message=Probably+Sleeping...)](https://discord.com/users/975611185418371072)
    
+</details>
+
+<details>
+   <summary><b>Languages</b></summary>
+   
+   ##### Written Languages
+   Nothing to be done here. 
+
 </details>
