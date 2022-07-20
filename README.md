@@ -2,11 +2,7 @@
 <h3 align="center">I do alot of things related to minecraft!</h3>
 <p align=center>I am <b>reverse engineer since 2018</b>.<br>I learned <b>computer engineer since 2020</b>.<br>I love very well codings.<br>I do <b>minecraft releated</b> code things. </p>
 
-> **Warning**<br>
-> I am doing alot of projects. I may slow to respond.
-
-
-#### Performance
+#### About Me :wave:
 <details>
    <summary><b>Statistics</b></summary>
 
@@ -43,8 +39,8 @@
 
    | Name | Date | Tier | Icon | Percent |
    |------|------|----------|---------|---------|
-   | YOLO |Jun 20|   1   |   ![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)      |    100%  |
-   |  Pull Shark    |  Jun 16    |  1 | ![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)       |     100%    |
-   |   QuickDraw   |   Jul 19   |     1     |    ![](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)     |   100%      |
+   | [YOLO](https://github.com/xqwtxon?achievement=yolo&tab=achievements) |Jun 20|   1   |   ![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)      |    100%  |
+   |  [Pull Shark](https://github.com/xqwtxon?achievement=pull-shark&tab=achievements)    |  Jun 16    |  1 | ![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)       |     100%    |
+   |   [QuickDraw](https://github.com/xqwtxon?achievement=quickdraw&tab=achievements)   |   Jul 19   |     1     |    ![](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)     |   100%      |
 
 </details>
