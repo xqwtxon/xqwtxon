@@ -2,6 +2,10 @@
 <h3 align="center">I do alot of things related to minecraft!</h3>
 <p align=center>I am <b>reverse engineer since 2018</b>.<br>I learned <b>computer engineer since 2020</b>.<br>I love very well codings.<br>I do <b>minecraft releated</b> code things. </p>
 
+> **Warning**
+> I am doing alot of projects. I may slow to respond.
+
+
 #### Performance
 <details>
    <summary><b>Statistics</b></summary>
