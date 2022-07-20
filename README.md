@@ -2,17 +2,6 @@
 <h3 align="center">I do alot of things related to minecraft!</h3>
 <p align=center>I am <b>reverse engineer since 2018</b>.<br>I learned <b>computer engineer since 2020</b>.<br>I love very well codings.<br>I do <b>minecraft releated</b> code things. </p>
 
-#### Popular Projects
-- **Popular Repositories:**
-  - [`@ReinfyTeam/ProfanityFilter`](https://github.com/ReinfyTeam)
-  - [`@ReinfyTeam/ReinfyBot`](https://github.com/ReinfyTeam/ReinfyBot)
-- **Popular Gists:**
-  - **Nothing to be here yet.**
-- **Joind Organization:**
-  - [`@ReinfyTeam`](https://github.com/ReinfyTeam)
-  - [`@PrideMC`](https://github.com/PrideMC)
-  - [`@Minco-Inc`](https://github.com/Minco-Inc)
-
 #### Performance
 <details>
    <summary><b>Statistics</b></summary>
