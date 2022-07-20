@@ -37,10 +37,10 @@
 <details>
     <summary><b>Achievements</b></summary>
 
-   | Name | Date | Unlocked | Picture | Percent |
+   | Name | Date | Tier | Icon | Percent |
    |------|------|----------|---------|---------|
-   |  d    |    d  |     f     |   f      |       f  |
-   |      |      |          |         |         |
-   |      |      |          |         |         |
+   | YOLO |Jun 20|   1   |   ![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)      |    100%  |
+   |  Pull Shark    |  Jun 16    |  1 | ![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)       |     100%    |
+   |   QuickDraw   |   Jul 19   |     1     |    ![](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)     |   100%      |
 
 </details>
