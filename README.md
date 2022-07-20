@@ -37,10 +37,10 @@
 <details>
     <summary><b>Achievements</b></summary>
 
-| Name | Date | Unlocked | Picture | Percent |
-|------|------|----------|---------|---------|
-|      |      |          |         |         |
-|      |      |          |         |         |
-|      |      |          |         |         |
+   | Name | Date | Unlocked | Picture | Percent |
+   |------|------|----------|---------|---------|
+   |      |      |          |         |         |
+   |      |      |          |         |         |
+   |      |      |          |         |         |
 
 </details>
