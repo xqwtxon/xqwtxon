@@ -9,7 +9,7 @@
    ##### Github Statistics
    [![](https://github-readme-stats.vercel.app/api?username=xqwtxon&count_private=true&show_icons=true)](https://github.com/xqwtxon)
    ##### Top Languages
-   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=xqwtxon&layout=compact)](https://github.com/xqwtxon)
+   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=xqwtxon&layout=compact&langs_count=10)](https://github.com/xqwtxon)
    ##### My Trophy
    [![](https://github-profile-trophy.vercel.app/?username=xqwtxon&column=-1)](https://github.com/xqwtxon)
    ##### Wakatime
@@ -26,11 +26,11 @@
 <details>
    <summary><b>Pinned Repositories</b></summary>
    
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=ReinfyTeam&repo=ProfanityFilter)](https://github.com/ReinfyTeam/ProfanityFilter)
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=ReinfyTeam&repo=ReinfyBot)](https://github.com/ReinfyTeam/ReinfyBot)
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=Terroror.js)](https://github.com/xqwtxon/Terroror.js)
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=QwertyClicker)](https://github.com/xqwtxon/QwertyClicker)
-   [![](https://github-readme-stats.vercel.app/api/pin/?username=PrideMC&repo=Minetrack)](https://github.com/PrideMC/Minetrack)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=ReinfyTeam&repo=ProfanityFilter&show_owner=true)](https://github.com/ReinfyTeam/ProfanityFilter)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=ReinfyTeam&repo=ReinfyBot&show_owner=true)](https://github.com/ReinfyTeam/ReinfyBot)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=Terroror.js&show_owner=true)](https://github.com/xqwtxon/Terroror.js)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=QwertyClicker&show_owner=true)](https://github.com/xqwtxon/QwertyClicker)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=PrideMC&repo=Minetrack&show_owner=true)](https://github.com/PrideMC/Minetrack)
 
 </details>
 
