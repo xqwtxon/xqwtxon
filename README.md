@@ -1,6 +1,7 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hello%2C+I+am+xqwtxon!+👋&width=430&size=30&height=30&vCenter=true&duration=10000" alt="Hello World"><img src="icon-200x200.png" align=right /></h1>
-<h3 align="center">I do alot of things related to minecraft!</h3>
-<p align=center>I am <b>reverse engineer since 2018</b>.<br>I learned <b>computer engineer since 2020</b>.<br>I love very well codings.<br>I do <b>minecraft releated</b> code things. </p>
+[![](/logo.jpeg)](https://github.com/xqwtxon)
+
+<p align="center"><b>Quote of Programmers:</b> Copy-and-Paste was programmed by programmers for programmers actually.</p>
+
 
 #### About Me :wave:
 <details>
