@@ -35,25 +35,17 @@
 </details>
 
 <details>
-   <summary><b>Languages</b></summary>
+   <summary><b>Pinned Repositories</b></summary>
    
-   ##### Written Languages
-   - **PHP:** I write this language for people judgement to review the code.
-   - **Javascript:** you know seriously its funny tiny language :joy:
-   - **C#:** I make programs such as autoclicker, etc.
-   - **C++:** I contribute to game cheats and more bedrock hacking clients.
-   - **Rust:** Please not now. :joy:
-   - **Python:** Sneeking budy inside of code. Lmafo
-   - **Ruby:** Not such better. But sucks.
-   - **Malbolge:** Get bully by program, i hate this one.
-   - **Vim:** Bruh
-   - **HTML & CSS:** High-School Easy Programming. Learned since High-School...
-   - **TypeScript:** Making npm projects so easily...
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=ReinfyTeam&repo=ProfanityFilter)](https://github.com/ReinfyTeam/ProfanityFilter)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=ReinfyTeam&repo=ReinfyBot)](https://github.com/ReinfyTeam/ReinfyBot)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=Terroror.js)](https://github.com/xqwtxon/Terroror.js)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=QwertyClicker)](https://github.com/xqwtxon/QwertyClicker)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=PrideMC&repo=Minetrack)](https://github.com/PrideMC/Minetrack)
 
 </details>
 
 <details>
     <summary><b>Achievements</b></summary>
 
-    
 </details>
