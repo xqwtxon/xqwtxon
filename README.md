@@ -39,8 +39,8 @@
 
    | Name | Date | Tier | Icon | Percent |
    |------|------|----------|---------|---------|
-   | [YOLO](https://github.com/xqwtxon?achievement=yolo&tab=achievements) |Jun 20|   1   |   ![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)      |    100%  |
-   |  [Pull Shark](https://github.com/xqwtxon?achievement=pull-shark&tab=achievements)    |  Jun 16    |  1 | ![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)       |     100%    |
-   |   [QuickDraw](https://github.com/xqwtxon?achievement=quickdraw&tab=achievements)   |   Jul 19   |     1     |    ![](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)     |   100%      |
+   | [YOLO](https://github.com/xqwtxon?achievement=yolo&tab=achievements) |Jul 19|   1   |   ![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)      |    100%  |
+   |  [Pull Shark](https://github.com/xqwtxon?achievement=pull-shark&tab=achievements)    |  May 14    |  1 | ![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)       |     100%    |
+   |   [QuickDraw](https://github.com/xqwtxon?achievement=quickdraw&tab=achievements)   |   Apr 13  |     1     |    ![](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)     |   100%      |
 
 </details>
