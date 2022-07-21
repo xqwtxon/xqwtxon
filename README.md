@@ -1,5 +1,7 @@
 [![](/logo.jpeg)](https://github.com/xqwtxon)
 
+<p align="center"><a href="https://github.com/xqwtxon"><img src="https://komarev.com/ghpvc/?username=xqwtxon&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a></p>
+
 <p align="center"><b>Quote of Programmers:</b> Copy-and-Paste was programmed by programmers for programmers actually.</p>
 
 
