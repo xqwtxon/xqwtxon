@@ -55,8 +55,8 @@
 | Name | Date | Status | Logo | Rank |
 |------|------|--------|---------|------|
 |   [`@ReinfyTeam`](https://github.com/ReinfyTeam)   |   `Jul 17`   |   ✔   |    ![](https://avatars.githubusercontent.com/u/109064156?s=200&v=4)     |   Owner   |
-|   [`@PrideMC`](https://github.com/PrideMC)   |   Feb 12   |    ✔    |    ![](https://avatars.githubusercontent.com/u/100106234?s=200&v=4)     |   Founder   |
-|   [`@Minco-Inc`](https://github.com/Minco-Inc)   |   Apr 17   |    ✔    |    ![](https://avatars.githubusercontent.com/u/93022369?s=200&v=4)     |   Member   |
+|   [`@PrideMC`](https://github.com/PrideMC)   |   `Feb 12`   |    ✔    |    ![](https://avatars.githubusercontent.com/u/100106234?s=200&v=4)     |   Founder   |
+|   [`@Minco-Inc`](https://github.com/Minco-Inc)   |   `Apr 17`   |    ✔    |    ![](https://avatars.githubusercontent.com/u/93022369?s=200&v=4)     |   Member   |
 
 
 </details>
