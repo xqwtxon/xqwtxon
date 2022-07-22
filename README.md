@@ -1,4 +1,4 @@
-[![](/logo.jpeg)](https://github.com/xqwtxon)
+<p align="center"><a href="https://github.com/xqwtxon"><img src="/logo.jpeg"></a></p>
 
 <p align="center"><a href="https://github.com/xqwtxon"><img src="https://komarev.com/ghpvc/?username=xqwtxon&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a></p>
 
