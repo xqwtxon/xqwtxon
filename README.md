@@ -74,12 +74,14 @@
 
 <details>
    <summary><b>Information</b></summary>
+   
    ##### About My Self
 
    <p align="center">Programmer since 2016, Reverse-Engineer since 2019, I do a lot of Minecraft-related things.</p>
    
    ##### About my Links
    [Website](https://xqwtxon.ml) | [Discord](https://discord.com/users/975611185418371072)
+
 </details>
 
 
