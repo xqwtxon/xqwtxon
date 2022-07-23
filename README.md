@@ -84,9 +84,10 @@
   ##### 2048 Leaderboard
 
   <!-- 2048Ranking -->
-  | Players | Actions |
-  |---------------|:---------:|
-  <!-- 2048Ranking -->
+| Players | Actions |
+|---------------|:---------:|
+| [@xqwtxon](https://github.com/xqwtxon) | 1 |
+<!-- 2048Ranking -->
 
 </details>
 
