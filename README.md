@@ -28,7 +28,8 @@
 
 <details>
    <summary><b>Pinned Repositories</b></summary>
-   
+
+   ##### Favorate Projects.
    [![](https://github-readme-stats.vercel.app/api/pin/?username=ReinfyTeam&repo=ProfanityFilter&show_owner=true)](https://github.com/ReinfyTeam/ProfanityFilter)
    [![](https://github-readme-stats.vercel.app/api/pin/?username=ReinfyTeam&repo=ReinfyBot&show_owner=true)](https://github.com/ReinfyTeam/ReinfyBot)
    [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=Terroror.js&show_owner=true)](https://github.com/xqwtxon/Terroror.js)
@@ -40,6 +41,7 @@
 <details>
     <summary><b>Achievements</b></summary>
 
+   ##### Github Achievements
    | Name | Date | Tier | Icon | Status |
    |------|------|----------|---------|---------|
    | [YOLO](https://github.com/xqwtxon?achievement=yolo&tab=achievements) |`Jul 19`|   **#1**   |   ![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)      |    ✔  |
@@ -51,12 +53,44 @@
 
 <details>
     <summary><b>Organizations</b></summary>
+  ##### Organizations
+  | Name | Date | Status | Logo | Rank |
+  |------|------|--------|---------|------|
+  |   [`@ReinfyTeam`](https://github.com/ReinfyTeam)   |   `Jul 17`   |   ✔   |    ![](https://avatars.githubusercontent.com/u/109064156?s=200&v=4)     |   Owner   |
+  |   [`@PrideMC`](https://github.com/PrideMC)   |   `Feb 12`   |    ✔    |    ![](https://avatars.githubusercontent.com/u/100106234?s=200&v=4)     |   Founder   |
+  |   [`@Minco-Inc`](https://github.com/Minco-Inc)   |   `Apr 17`   |    ✔    |    ![](https://avatars.githubusercontent.com/u/93022369?s=200&v=4)     |   Member   |
 
-| Name | Date | Status | Logo | Rank |
-|------|------|--------|---------|------|
-|   [`@ReinfyTeam`](https://github.com/ReinfyTeam)   |   `Jul 17`   |   ✔   |    ![](https://avatars.githubusercontent.com/u/109064156?s=200&v=4)     |   Owner   |
-|   [`@PrideMC`](https://github.com/PrideMC)   |   `Feb 12`   |    ✔    |    ![](https://avatars.githubusercontent.com/u/100106234?s=200&v=4)     |   Founder   |
-|   [`@Minco-Inc`](https://github.com/Minco-Inc)   |   `Apr 17`   |    ✔    |    ![](https://avatars.githubusercontent.com/u/93022369?s=200&v=4)     |   Member   |
 
+</details>
 
+#### Games
+<details>
+    <summary><b>2048</b></summary>
+    
+
+  ##### 2048
+
+  **Game in progress. This is a public game of 2048. Anyone can play.** <br>
+  **It's your turn, click on a button below the board!** <br>
+
+  <!-- 2048GameBoard -->
+  <img src="https://github.com/xqwtxon/xqwtxon/blob/main/Data/gameboard.png" width="500"/>
+  <!-- 2048GameBoard -->
+
+  <!-- 2048GameActions -->
+  <a href="https://github.com/xqwtxon/xqwtxon/issues/new?title=2048|slideUp&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://github.com/xqwtxon/xqwtxon/blob/profile/Assets/slideUp.png"/> </a> <a href="https://github.com/xqwtxon/xqwtxon/issues/new?title=2048|slideDown&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://github.com/xqwtxon/xqwtxon/blob/profile/Assets/slideDown.png"/> </a> <a href="https://github.com/xqwtxon/xqwtxon/issues/new?title=2048|slideLeft&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://github.com/xqwtxon/xqwtxon/blob/profile/Assets/slideLeft.png"/> </a> <a href="https://github.com/xqwtxon/xqwtxon/issues/new?title=2048|slideRight&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://github.com/xqwtxon/xqwtxon/blob/profile/Assets/slideRight.png"/> </a>
+  <!-- 2048GameActions -->
+
+  ##### 2048 Leaderboard
+
+  <!-- 2048Ranking -->
+  | Players | Actions |
+  |---------------|:---------:|
+  <!-- 2048Ranking -->
+
+</details>
+
+<details>
+   <summary><b>Octoring</b></summary>
+   <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/xqwtxon/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/xqwtxon/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/xqwtxon/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 </details>
