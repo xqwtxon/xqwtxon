@@ -111,6 +111,7 @@
 | Players | Actions |
 |---------------|:---------:|
 | [@xqwtxon](https://github.com/xqwtxon) | 1 |
+| [@Phqzing](https://github.com/Phqzing) | 1 |
 <!-- 2048Ranking -->
 
 </details>
