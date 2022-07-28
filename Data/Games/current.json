@@ -2,15 +2,15 @@
     "grid": [
         [
             null,
+            4,
             null,
-            null,
-            2
+            4
         ],
         [
             null,
-            4,
+            2,
             null,
-            2
+            null
         ],
         [
             null,
@@ -25,10 +25,11 @@
             null
         ]
     ],
-    "score": 0,
+    "score": 4,
     "bestScore": 0,
     "moves": [
         "@xqwtxon",
-        "@Phqzing"
+        "@Phqzing",
+        "@xqwtxon"
     ]
 }

@@ -110,7 +110,7 @@
   <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
-| [@xqwtxon](https://github.com/xqwtxon) | 1 |
+| [@xqwtxon](https://github.com/xqwtxon) | 2 |
 | [@Phqzing](https://github.com/Phqzing) | 1 |
 <!-- 2048Ranking -->
 
