@@ -35,7 +35,9 @@ jobs:
           svg_out_path: github-contribution-grid-snake.svg
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
+      - run: |
+            git status
+            git add --all
 
       # Push the changes
       - name: Push changes
