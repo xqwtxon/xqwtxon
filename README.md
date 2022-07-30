@@ -4,10 +4,11 @@
 
 <p align="center"><b>Quote of Programmers:</b> Copy-and-Paste was programmed by programmers for programmers actually.</p>
 
+<p align="center">“Programmer since 2016, Reverse-Engineer since 2019, I do a lot of Minecraft-related things.”</p>
 
-#### About Me :wave:
+#### About Me 👋
 <details>
-   <summary><b>Statistics</b></summary>
+   <summary><b>My Statistics</b></summary>
 
    ##### Github Statistics
    [![](https://github-readme-stats.vercel.app/api?username=xqwtxon&count_private=true&show_icons=true)](https://github.com/xqwtxon)
@@ -30,7 +31,7 @@
 </details>
 
 <details>
-   <summary><b>Pinned Repositories</b></summary>
+   <summary><b>My Lovely Projects.</b></summary>
 
    ##### Favorate Projects
    [![](https://github-readme-stats.vercel.app/api/pin/?username=ReinfyTeam&repo=ProfanityFilter&show_owner=true)](https://github.com/ReinfyTeam/ProfanityFilter)
@@ -42,7 +43,7 @@
 </details>
 
 <details>
-    <summary><b>Achievements</b></summary>
+    <summary><b>My Achievements</b></summary>
 
    ##### Github Achievements
    | Name | Date | Tier | Icon | Status |
@@ -55,7 +56,7 @@
 
 
 <details>
-    <summary><b>Organizations</b></summary>
+    <summary><b>My Organizations</b></summary>
 
   ##### Organizations
   | Name | Date | Status | Logo | Rank |
@@ -67,30 +68,7 @@
 
 </details>
 
-<details>
-   <summary><b>Octoring</b></summary>
-   
-   ##### Octoring
-
-   <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/xqwtxon/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/xqwtxon/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/xqwtxon/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-</details>
-
-<details>
-   <summary><b>Information</b></summary>
-   
-   ##### About My Self
-
-   <p align="center">Programmer since 2016, Reverse-Engineer since 2019, I do a lot of Minecraft-related things.</p>
-   
-   ##### About my Links
-   [Website](https://xqwtxon.ml) | [Discord](https://discord.com/users/975611185418371072)
-
-</details>
-
-
-
-
-#### Games
+#### Games 🎮
 <details>
     <summary><b>2048</b></summary>
     
@@ -118,3 +96,5 @@
 <!-- 2048Ranking -->
 
 </details>
+
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/xqwtxon/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/xqwtxon/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/xqwtxon/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
