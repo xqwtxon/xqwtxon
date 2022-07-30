@@ -24,7 +24,9 @@
    ##### Discord Status
    [![](https://lanyard.cnrad.dev/api/975611185418371072?idle_message=Probably+Sleeping...)](https://discord.com/users/975611185418371072)
    ##### Github Contribution Graph
+   [![](https://github.com/xqwtxon/xqwtxon/blob/profile/github-contribution-grid-snake.svg)](https://github.com/xqwtxon)
    [![](https://activity-graph.herokuapp.com/graph?username=xqwtxon&theme=github)](https://github.com/xqwtxon)
+   [![](https://github.com/xqwtxon/xqwtxon/blob/profile/profile-3d-contrib/profile-season-animate.svg)](https://github.com/xqwtxon)
 </details>
 
 <details>
