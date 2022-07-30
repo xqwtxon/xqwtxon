@@ -37,6 +37,8 @@ jobs:
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: |
           git status
+          git config --global user.name 'Snake'
+          git config --global user.email 'noreply@github.com'
           git add --all
           git commit -am "Update Contribution Snake."
 
