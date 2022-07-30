@@ -1,8 +1,8 @@
 name: Graph
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  # Schedule updates (every minute)
+  schedule: [{cron: "30 * * * *"}]
   workflow_dispatch:
 
 jobs:
