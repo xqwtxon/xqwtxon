@@ -23,7 +23,8 @@
    [![](https://github.com/xqwtxon/xqwtxon/blob/profile/github-metrics.svg)](https://github.com/xqwtxon)
    ##### Discord Status
    [![](https://lanyard.cnrad.dev/api/975611185418371072?idle_message=Probably+Sleeping...)](https://discord.com/users/975611185418371072)
-   
+   ##### Github Contribution Graph
+   [![](https://activity-graph.herokuapp.com/graph?username=xqwtxon&theme=github)](https://github.com/xqwtxon)
 </details>
 
 <details>
