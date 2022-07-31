@@ -4,7 +4,7 @@
 
 <p align="center"><b>Quote of Programmers:</b> Copy-and-Paste was programmed by programmers for programmers actually.</p>
 
-<p align="center">“Programmer since 2016, Reverse-Engineer since 2019, I do a lot of Minecraft-related things.”</p>
+<p align="center"><b>“</b>Programmer since 2016, Reverse-Engineer since 2019, I do a lot of Minecraft-related things.<b>”</b></p>
 
 #### About Me 👋
 <details>
