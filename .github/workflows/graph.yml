@@ -1,8 +1,8 @@
 name: Graph
 
 on:
-  # Schedule updates (every minute)
-  schedule: [{cron: "30 * * * *"}]
+  # Schedule updates (every day)
+  schedule: [{cron: "* 1 * * *"}]
   workflow_dispatch:
 
 jobs:
