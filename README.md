@@ -13,6 +13,7 @@
    ##### Github Statistics
    [![](https://github-readme-stats.vercel.app/api?username=xqwtxon&count_private=true&show_icons=true)](https://github.com/xqwtxon)
    ##### Top Languages
+   [![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xqwtxon&layout=compact&langs_count=20&hide_border=true&hide=css,html)](https://github.com/xqwtxon)
    [![](https://github-readme-stats.vercel.app/api/top-langs/?username=xqwtxon&layout=compact&langs_count=10)](https://github.com/xqwtxon)
    ##### My Trophy
    [![](https://github-profile-trophy.vercel.app/?username=xqwtxon&column=-1)](https://github.com/xqwtxon)
