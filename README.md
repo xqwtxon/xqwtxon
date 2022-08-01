@@ -20,7 +20,7 @@
    ##### Wakatime
    [![](https://github-readme-stats.vercel.app/api/wakatime?username=xqwtxon)](https://github.com/xqwtxon)
    ##### Streak
-   [![](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https:/github.com/xqwtxon)
+   [![](https://github-readme-streak-stats.herokuapp.com/?user=xqwtxon)](https:/github.com/xqwtxon)
    ##### Metrics
    [![](https://github.com/xqwtxon/xqwtxon/blob/profile/github-metrics.svg)](https://github.com/xqwtxon)
    ##### Discord Status
