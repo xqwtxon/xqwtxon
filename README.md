@@ -52,6 +52,7 @@
    | [YOLO](https://github.com/xqwtxon?achievement=yolo&tab=achievements) |`Jul 19`|   **#1**   |   ![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)      |    ✔  |
    |  [Pull Shark](https://github.com/xqwtxon?achievement=pull-shark&tab=achievements)    |  `May 14`    |  **#1** | ![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)       |     ✔    |
    |   [QuickDraw](https://github.com/xqwtxon?achievement=quickdraw&tab=achievements)   |   `Apr 13`  |     **#1**     |    ![](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)     |   ✔      |
+   | [Pair Extraordinaire](https://github.com/xqwtxon?achievement=pair-extraordinaire&tab=achievements) | `Aug 5` | **#1** | ![](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | ✔ |
 
 </details>
 
