@@ -53,6 +53,7 @@
    |  [Pull Shark](https://github.com/xqwtxon?achievement=pull-shark&tab=achievements)    |  `May 14`    |  **#1** | ![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)       |     ✔    |
    |   [QuickDraw](https://github.com/xqwtxon?achievement=quickdraw&tab=achievements)   |   `Apr 13`  |     **#1**     |    ![](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)     |   ✔      |
    | [Pair Extraordinaire](https://github.com/xqwtxon?achievement=pair-extraordinaire&tab=achievements) | `Aug 5` | **#1** | ![](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | ✔ |
+   | [Galaxy Brain](https://github.com/xqwtxon?achievement=galaxy-brain&tab=achievements) | `Aug 5` | **#1** | ![](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | ✔ |
 
 </details>
 
