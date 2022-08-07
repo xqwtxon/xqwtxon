@@ -4,37 +4,49 @@
 
 <p align="center"><b>Quote of Programmers:</b> Copy-and-Paste was programmed by programmers for programmers actually.</p>
 
+# About Me 👋
 <p align="center"><b>“</b>Programmer since 2016, Reverse-Engineer since 2019, I do a lot of Minecraft-related things.<b>”</b></p>
+<p align="center"><b><a href="https://xqwtxon.ml/" alt="My Website and Blogs">Website</a></b> | <b><a href="https://xqwtxon.cf/?p=youtube" alt="My Youtube Channel">Youtube</a></b> | <b><a href="https://xqwtxon.cf/?p=twitter" alt="twitter">Twitter</a></b> | <b><a href="https://xqwtxon.cf/?p=discord" alt="My Discord Account">Discord</a></b></p>
 
-#### About Me 👋
+- Contributed to **Several Repository** Related on **Minecraft-Things** 🔥
+- Reverse-Engineer since 2019, Currently working **Go and Rust** 🏆
+- **Experienced** since 2016, Currently my native language is **PHP and C#/C++** 🎖
+- Minecraft Bedrock Cheater (Mostly uses **Horion Open Source**) for Custom Client. 🏓
+- Developing **Discord Bots** using **Javascript and Python** ✨
+- **Hacker and Debugger** on Static Programs (Specially for **C#, C++, and Websites**) 🎯
+- Client Program **Bug Hunter** (Specially on Popular Programs such as **Discord**) 🕹
+
 <details>
    <summary><b>My Statistics</b></summary>
 
-   ##### Github Statistics
+   ## Github Statistics
    [![](https://github-readme-stats.vercel.app/api?username=xqwtxon&count_private=true&show_icons=true)](https://github.com/xqwtxon)
-   ##### Top Languages
+   ## Top Languages
    [![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xqwtxon&layout=compact&langs_count=20&hide_border=true&hide=css,html)](https://github.com/xqwtxon)
    [![](https://github-readme-stats.vercel.app/api/top-langs/?username=xqwtxon&layout=compact&langs_count=10)](https://github.com/xqwtxon)
-   ##### My Trophy
+   ## My Trophy
    [![](https://github-profile-trophy.vercel.app/?username=xqwtxon&column=-1)](https://github.com/xqwtxon)
-   ##### Wakatime
+   ## Wakatime
    [![](https://github-readme-stats.vercel.app/api/wakatime?username=xqwtxon)](https://github.com/xqwtxon)
-   ##### Streak
+   ## Streak
    [![](https://github-readme-streak-stats.herokuapp.com/?user=xqwtxon)](https:/github.com/xqwtxon)
-   ##### Metrics
+   ## Metrics
    [![](https://github.com/xqwtxon/xqwtxon/blob/profile/github-metrics.svg)](https://github.com/xqwtxon)
-   ##### Discord Status
+   ## Discord Status
    [![](https://lanyard.cnrad.dev/api/975611185418371072?idle_message=Probably+Sleeping...)](https://discord.com/users/975611185418371072)
-   ##### Github Contribution Graph
+   ## Github Contribution Graph
    [![](https://github.com/xqwtxon/xqwtxon/blob/profile/github-contribution-grid-snake.svg)](https://github.com/xqwtxon)
    [![](https://activity-graph.herokuapp.com/graph?username=xqwtxon&theme=github)](https://github.com/xqwtxon)
    [![](https://github.com/xqwtxon/xqwtxon/blob/profile/profile-3d-contrib/profile-season-animate.svg)](https://github.com/xqwtxon)
 </details>
 
+- Github Commiter and **Active Developer** on **Several Organizations** 🟢
+- Issuer and Definitely **Github Explorer** 🌐
+
 <details>
    <summary><b>My Lovely Projects.</b></summary>
 
-   ##### Favorate Projects
+   ## Favorate Projects
    [![](https://github-readme-stats.vercel.app/api/pin/?username=ReinfyTeam&repo=ProfanityFilter&show_owner=true)](https://github.com/ReinfyTeam/ProfanityFilter)
    [![](https://github-readme-stats.vercel.app/api/pin/?username=ReinfyTeam&repo=ReinfyBot&show_owner=true)](https://github.com/ReinfyTeam/ReinfyBot)
    [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=Terroror.js&show_owner=true)](https://github.com/xqwtxon/Terroror.js)
@@ -43,10 +55,14 @@
 
 </details>
 
+- Specially my **Favorite Minecraft Software** is **PocketMine-MP, and Dragonfly** which written in PHP and Golang. 🪐
+- Some of my projects related on PocketMine-MP Plugins.
+- Using **PHPStorm**, **Visual Studio Code** (for programs and dlls), **Notepad++** (definitely using for normal text editing ~~not advanced~~) 💥
+
 <details>
     <summary><b>My Achievements</b></summary>
 
-   ##### Github Achievements
+   ## Github Achievements
    | Name | Date | Tier | Icon | Status |
    |------|------|----------|---------|---------|
    | [YOLO](https://github.com/xqwtxon?achievement=yolo&tab=achievements) |`Jul 19`|   **#1**   |   ![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)      |    ✔  |
@@ -57,11 +73,14 @@
 
 </details>
 
+- Definitely Github Achievements Hopper 🖥
+- Specially using Github for Storing Projects and Making Open Source.
+- Prefer's Open Source Projects. 💖
 
 <details>
     <summary><b>My Organizations</b></summary>
 
-  ##### Organizations
+  ## Organizations
   | Name | Date | Status | Logo | Rank |
   |------|------|--------|---------|------|
   |[`@ReinfyTeam`](https://github.com/ReinfyTeam)|`Jul 17`|✔|![](https://avatars.githubusercontent.com/u/109064156?s=200&v=4)|Owner|
@@ -71,12 +90,18 @@
 
 </details>
 
-#### Games 🎮
+- Im currently working on **ReinfyTeam** 💼
+- I am founder of a Minecraft Server called **PrideMC** 👑
+- I am serious developer which talking about program **security vulnerabilities**. 🎓
+- I am aware developer for **pull request, reviewing codes, and issue/bugs.** 🎩
+
+# Games 🎮
+- If you **bored**, you can also play on my games! 🥱
 <details>
     <summary><b>2048</b></summary>
     
 
-  ##### 2048
+  ## 2048
 
   **Game in progress. This is a public game of 2048. Anyone can play.** <br>
   **It's your turn, click on a button below the board!** <br>
@@ -89,7 +114,7 @@
   <a href="https://github.com/xqwtxon/xqwtxon/issues/new?title=2048|slideUp&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://github.com/xqwtxon/xqwtxon/blob/profile/Assets/slideUp.png"/> </a> <a href="https://github.com/xqwtxon/xqwtxon/issues/new?title=2048|slideDown&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://github.com/xqwtxon/xqwtxon/blob/profile/Assets/slideDown.png"/> </a> <a href="https://github.com/xqwtxon/xqwtxon/issues/new?title=2048|slideLeft&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://github.com/xqwtxon/xqwtxon/blob/profile/Assets/slideLeft.png"/> </a> <a href="https://github.com/xqwtxon/xqwtxon/issues/new?title=2048|slideRight&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="https://github.com/xqwtxon/xqwtxon/blob/profile/Assets/slideRight.png"/> </a>
   <!-- 2048GameActions -->
 
-  ##### 2048 Leaderboard
+  ## 2048 Leaderboard
 
   <!-- 2048Ranking -->
 | Players | Actions |
@@ -100,4 +125,8 @@
 
 </details>
 
+# Discover
+- Visit other profile's and discover newly users on github! 🙌
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/xqwtxon/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/xqwtxon/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/xqwtxon/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
+
