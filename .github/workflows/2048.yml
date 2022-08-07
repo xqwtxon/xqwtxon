@@ -29,7 +29,7 @@ jobs:
       - name: Play 2048
         run: |
           pip install -r requirements.txt
-          python main.py
+          python 2048.py
       # Create new commit with the changed files and push it to GitHub
       - uses: EndBug/add-and-commit@v5
         with:
