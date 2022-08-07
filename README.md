@@ -97,14 +97,15 @@
 
 # Games 🎮
 - If you **bored**, you can also play on my games! 🥱
+  - **2048**: is a single-player sliding tile puzzle video game written by Italian web developer Gabriele Cirulli and published on GitHub. ②⓪④⑧
+  - **Chess**: is a board game played between two players. It is sometimes called Western chess or international chess to distinguish it from related games such as xiangqi and shogi. ♟️
 <details>
     <summary><b>2048</b></summary>
     
 
   ## 2048
-
-  **Game in progress. This is a public game of 2048. Anyone can play.** <br>
-  **It's your turn, click on a button below the board!** <br>
+  - **Game in progress. This is a public game of 2048. Anyone can play.** <br>
+  - **It's your turn, click on a button below the board!** <br>
 
   <!-- 2048GameBoard -->
   <img src="https://github.com/xqwtxon/xqwtxon/blob/profile/Data/gameboard.png" width="500"/>
@@ -122,6 +123,33 @@
 | [@xqwtxon](https://github.com/xqwtxon) | 2 |
 | [@Phqzing](https://github.com/Phqzing) | 1 |
 <!-- 2048Ranking -->
+
+</details>
+
+<details>
+   <summary><b>Chest</b></summary>
+
+   ## Chess
+   - This is an open chess tournament where ANYONE can play. That's the fun part.  
+   - It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
+
+<!-- BEGIN CHESS BOARD -->
+(Here goes the chess board)
+<!-- END CHESS BOARD -->
+
+   - **It's your turn to move! Choose one from the following table**
+<!-- BEGIN MOVES LIST -->
+(Here goes the list of legal moves)
+<!-- END MOVES LIST -->
+
+   ### Leaderboard
+<!-- BEGIN LAST MOVES -->
+(Here goes the list of the last 5 moves)
+<!-- END LAST MOVES -->
+
+<!-- BEGIN TOP MOVES -->
+(Here goes the top 10 most moves)
+<!-- END TOP MOVES -->
 
 </details>
 
