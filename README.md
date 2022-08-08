@@ -182,6 +182,29 @@ If you **bored**, you can also play on my games! 🥱
 
 </details>
 
+- **Connect Four**: (also known as Connect 4, Four Up, Plot Four, Find Four, Captain's Mistress, Four in a Row, Drop Four, and Gravitrips in the Soviet Union) is a two-player connection board game, in which the players choose a color and then take turns dropping colored tokens into a seven-column, six-row vertically suspended grid. 🟡
+
+<details>
+  <summary><b>Connect4</b></summary>
+
+  ## Connect4
+  - Here you can play Connect4. Just click a number under the grid to move. It's <!-- BEGIN TURN2 -->none<!-- END TURN2 --> turn.
+  
+  <!-- BEGIN CONNECT4 BOARD -->
+  <!-- END CONNECT4 BOARD -->
+  
+  <!-- BEGIN MOVES LIST2 -->
+  <!-- END MOVES LIST2 -->
+  
+  # Leaderboard
+  - Last 5 moves in this game
+  <!-- BEGIN LAST MOVES2 -->
+  <!-- END LAST MOVES2 -->
+  - Top 10 most moves across games!
+  <!-- BEGIN TOP MOVES2 -->
+  <!-- END TOP MOVES2 -->
+</details>
+
 # Discover
 - Visit other profile's and discover newly users on github! 🙌
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/xqwtxon/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/xqwtxon/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/xqwtxon/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
