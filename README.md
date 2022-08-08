@@ -186,7 +186,7 @@ If you **bored**, you can also play on my games! 🥱
 
 </details>
 
-- **Connect Four**: (also known as Connect 4, Four Up, Plot Four, Find Four, Captain's Mistress, Four in a Row, Drop Four, and Gravitrips in the Soviet Union) is a two-player connection board game, in which the players choose a color and then take turns dropping colored tokens into a seven-column, six-row vertically suspended grid. 🟡
+- **Connect Four**: is a two-player connection board game, in which the players choose a color and then take turns dropping colored tokens into a seven-column, six-row vertically suspended grid. 🟡
 
 <details>
   <summary><b>Connect4</b></summary>
