@@ -6,7 +6,7 @@ from enum import Enum
 from datetime import datetime
 
 import chess
-from chess import pgn
+imporrt chess.pgn
 import yaml
 from github import Github
 
