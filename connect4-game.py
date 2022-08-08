@@ -10,7 +10,7 @@ from connect4 import connect4
 import yaml
 from github import Github
 
-import src2.markdown as markdown
+import src.md as markdown
 
 RED = 1
 YELLOW = 2
