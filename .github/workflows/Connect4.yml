@@ -30,7 +30,7 @@ jobs:
       - name: Play connect4
         run: |
           pip install -r requirements2.txt
-          python connect4.py
+          python connect4-game.py
 
       # Create new commit with the changed files and push it to GitHub
       - name: Commit and push changes
