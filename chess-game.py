@@ -32,7 +32,7 @@ def update_top_moves(user):
     else:
         dictionary[user] += 1
 
-    with open('data/top_moves.txt', 'w') as file:
+    with open('Data/top_moves.txt', 'w') as file:
         file.write(str(dictionary))
 
 
@@ -77,7 +77,7 @@ def main(issue, issue_author, repo_owner):
     action = parse_issue(issue.title)
     gameboard = chess.Board()
 
-    with open('data/settings.yaml', 'r') as settings_file:
+    with open('Data/settings.yaml', 'r') as settings_file:
         settings = yaml.load(settings_file, Loader=yaml.FullLoader)
 
     if action[0] == Action.NEW_GAME:
@@ -193,8 +193,8 @@ def main(issue, issue_author, repo_owner):
             num_moves=len(lines)-1,
             num_players=len(player_list)))
 
-        os.rename('games/current.pgn', datetime.now().strftime('games/game-%Y%m%d-%H%M%S.pgn'))
-        os.remove('data/last_moves.txt')
+        os.rename('Games/current.pgn', datetime.now().strftime('Games/game-%Y%m%d-%H%M%S.pgn'))
+        os.remove('Data/last_moves.txt')
 
     with open('README.md', 'r') as file:
         readme = file.read()
