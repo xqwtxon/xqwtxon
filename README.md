@@ -2,7 +2,8 @@
 
 <p align="center"><a href="https://github.com/xqwtxon"><img src="https://komarev.com/ghpvc/?username=xqwtxon&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a></p>
 
-<p align="center"><b>Quote of Programmers:</b> Copy-and-Paste was programmed by programmers for programmers actually.</p>
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 # About Me 👋
 <p align="center"><b>“</b>Programmer since 2016, Reverse-Engineer since 2019, I do a lot of Minecraft-related things.<b>”</b></p>
