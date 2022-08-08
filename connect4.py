@@ -11,7 +11,7 @@ SOUTHWEST = 4
 class connect4:
     def __init__(self):
         if os.path.exists("Games/current.p"):
-            game = pickle.load(open("games/current.p", "rb"))
+            game = pickle.load(open("Games/current.p", "rb"))
             self.grid = game['grid']
             self.whosTurn = game['plays']
             self.player = game['player']
