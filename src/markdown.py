@@ -23,7 +23,7 @@ def create_issue_link(source, dest_list):
     return ", ".join(ret)
 
 def generate_top_moves():
-    with open("data/top_moves.txt", 'r') as file:
+    with open("Data/top_moves.txt", 'r') as file:
         dictionary = ast.literal_eval(file.read())
 
     markdown = "\n"
@@ -43,7 +43,7 @@ def generate_last_moves():
 
     counter = 0
 
-    with open("data/last_moves.txt", 'r') as file:
+    with open("Data/last_moves.txt", 'r') as file:
         for line in file.readlines():
             parts = line.rstrip().split(':')
 
