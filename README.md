@@ -34,6 +34,8 @@
    [![](https://github.com/xqwtxon/xqwtxon/blob/profile/github-metrics.svg)](https://github.com/xqwtxon)
    ## Discord Status
    [![](https://lanyard.cnrad.dev/api/975611185418371072?idle_message=Probably+Sleeping...)](https://discord.com/users/975611185418371072)
+   ## Spotify Status
+   [![](https://spotify-github-profile.vercel.app/api/view?uid=314pxd4hm2ciabk647tkanhdjisi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=314pxd4hm2ciabk647tkanhdjisi&redirect=true)
    ## Github Contribution Graph
    [![](https://github.com/xqwtxon/xqwtxon/blob/profile/github-contribution-grid-snake.svg)](https://github.com/xqwtxon)
    [![](https://activity-graph.herokuapp.com/graph?username=xqwtxon&theme=github)](https://github.com/xqwtxon)
