@@ -96,9 +96,8 @@
 - I am aware developer for **pull request, reviewing codes, and issue/bugs.** 🎩
 
 # Games 🎮
-- If you **bored**, you can also play on my games! 🥱
-  - **2048**: is a single-player sliding tile puzzle video game written by Italian web developer Gabriele Cirulli and published on GitHub. ②⓪④⑧
-  - **Chess**: is a board game played between two players. It is sometimes called Western chess or international chess to distinguish it from related games such as xiangqi and shogi. ♟️
+If you **bored**, you can also play on my games! 🥱
+- **2048**: is a single-player sliding tile puzzle video game written by Italian web developer Gabriele Cirulli and published on GitHub. ②⓪④⑧
 <details>
     <summary><b>2048</b></summary>
     
@@ -126,13 +125,15 @@
 
 </details>
 
+- **Chess**: is a board game played between two players. It is sometimes called Western chess or international chess to distinguish it from related games such as xiangqi and shogi. ♟️
+
 <details>
    <summary><b>Chest</b></summary>
 
    ## Chess
-   - This is an open chess tournament where ANYONE can play. That's the fun part.  
    - It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
-
+      - This is an open chess tournament where ANYONE can play. That's the fun part.  
+  
 <!-- BEGIN CHESS BOARD -->
 |   | A | B | C | D | E | F | G | H |   |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
