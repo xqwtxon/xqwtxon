@@ -201,12 +201,5 @@ if __name__ == '__main__':
         traceback.print_exc()
         with open('Data/Connect4/settings.yaml', 'r') as settings_file:
             settings = yaml.load(settings_file, Loader=yaml.FullLoader)
-        os.rename("README.md", "OldReadMe/FAULTYREADME.md")
-        os.rename("OldReadMe/FALLBACKREADME.md", "README.md")
-
-
-        if not os.path.exists("./.github/_workflows"):
-            os.makedirs("./.github/_workflows")
-        os.rename("./.github/workflows/Connect4.yml", ".github/workflows/Connect4.yml")
         issue.create_comment(settings['comments']['big_error'].format(author=issue_author, repo_owner=repo_owner))
         issue.edit(labels=['bug'])
