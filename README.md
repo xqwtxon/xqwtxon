@@ -56,6 +56,8 @@
    [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=Terroror.js&show_owner=true)](https://github.com/xqwtxon/Terroror.js)
    [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=QwertyClicker&show_owner=true)](https://github.com/xqwtxon/QwertyClicker)
    [![](https://github-readme-stats.vercel.app/api/pin/?username=PrideMC&repo=Minetrack&show_owner=true)](https://github.com/PrideMC/Minetrack)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=CLI&show_owner=true)](https://github.com/xqwtxon/CLI)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=CLI.sh&show_owner=true)](https://github.com/xqwtxon/CLI.sh)
 
 </details>
 
