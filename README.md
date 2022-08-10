@@ -231,9 +231,23 @@ If you **bored**, you can also play on my games! 🥱
 <!-- END TOP MOVES2 -->
 </details>
 
-# Discover
+# Discover 🌐
 - Visit other profile's and discover newly users on github! 🙌
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/xqwtxon/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/xqwtxon/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/xqwtxon/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
+# Sponsor 🙌
+
+<p align="center">Visit my <b><a href="https://github.com/sponsors/xqwtxon/">Sponsor Profile</a></b> or click the sponsor button.</p>
+
+- Sponsoring in github will help me alot of things.
+  - Only **$1.00** will help me alot, even cheaper price of sponsorship.
+  - Its helps me alot, to continue making **open source project for everyone**.
+  - What will happend if, i have **more sponsors**? What projects or repositories **could i do?**
+  - Gives me alot of **motivation** from my projects specially when **expecting a bugs or issues**.
+  - Sponsoring me will **help alot of people**.
+
+- Thanks for people, who sponsoring me!
+<!-- sponsors --><!-- sponsors -->
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
