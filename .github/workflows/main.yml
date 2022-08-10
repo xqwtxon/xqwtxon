@@ -1,0 +1,54 @@
+name: Generate Stats Images
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Configure GPG Key
+        run: echo -n "$GPG_KEY" | gpg --import
+        env:
+          GPG_KEY: ${{ secrets.GPG_KEY }}
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.10"
+          architecture: "x64"
+      - uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install requirements
+        run: |
+          python3 -m pip install --upgrade pip setuptools wheel
+          python3 -m pip install -r requirements.txt
+      - name: Generate images
+        run: |
+          python3 --version
+          python3 generate.py
+        env:
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXCLUDED: false
+          EXCLUDED_LANGS: false
+          INCLUDE_FORKED_REPOS: true
+          EXCLUDE_CONTRIB_REPOS: false
+          EXCLUDE_ARCHIVE_REPOS: false
+          EXCLUDE_PRIVATE_REPOS: false
+          EXCLUDE_PUBLIC_REPOS: false
+          STORE_REPO_VIEWS: true
+          STORE_REPO_CLONES: true
+      - name: Commit to the repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          # "echo" returns true so the build succeeds, even if no changed files
+          git commit -am 'Update Daily Stats' || echo
+          git push
