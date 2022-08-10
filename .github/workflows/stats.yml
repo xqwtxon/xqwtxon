@@ -31,7 +31,8 @@ jobs:
           python3 generate.py
         env:
           username: xqwtxon
-          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXCLUDED: false
           EXCLUDED_LANGS: false
           INCLUDE_FORKED_REPOS: true
