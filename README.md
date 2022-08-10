@@ -23,6 +23,8 @@
 
    ## Github Statistics
    [![](https://github-readme-stats.vercel.app/api?username=xqwtxon&count_private=true&show_icons=true)](https://github.com/xqwtxon)
+   [![](https://github.com/xqwtxon/xqwtxon/blob/profile/generated/languages.svg)](https://github.com/xqwtxon)
+   [![](https://github.com/xqwtxon/xqwtxon/blob/profile/generated/overview.svg)](https://github.com/xqwtxon)
    ## Top Languages
    [![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xqwtxon&layout=compact&langs_count=20&hide_border=true&hide=css,html)](https://github.com/xqwtxon)
    [![](https://github-readme-stats.vercel.app/api/top-langs/?username=xqwtxon&layout=compact&langs_count=10)](https://github.com/xqwtxon)
