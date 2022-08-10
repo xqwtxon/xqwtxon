@@ -2,7 +2,7 @@ name: Generate Stats Images
 on:
   workflow_dispatch:
   push:
-    branches: [master]
+    branches: [profile]
   schedule:
     - cron: "0 0 * * *"
 jobs:
@@ -10,10 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Configure GPG Key
-        run: echo -n "$GPG_KEY" | gpg --import
-        env:
-          GPG_KEY: ${{ secrets.GPG_KEY }}
       - name: Set up Python 3.10
         uses: actions/setup-python@v2
         with:
