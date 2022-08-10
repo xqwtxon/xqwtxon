@@ -30,6 +30,7 @@ jobs:
           python3 --version
           python3 generate.py
         env:
+          username: xqwtxon
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXCLUDED: false
           EXCLUDED_LANGS: false
