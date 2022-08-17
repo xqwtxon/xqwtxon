@@ -3,7 +3,7 @@
 <p align="center"><a href="https://github.com/xqwtxon"><img src="https://komarev.com/ghpvc/?username=xqwtxon&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a></p>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   ❞</i>
+<i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # About Me 👋
