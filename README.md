@@ -3,7 +3,7 @@
 <p align="center"><a href="https://github.com/xqwtxon"><img src="https://komarev.com/ghpvc/?username=xqwtxon&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a></p>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”— Albert Einstein   ❞</i>
+<i>❝“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # About Me 👋
