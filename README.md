@@ -60,6 +60,7 @@
    [![](https://github-readme-stats.vercel.app/api/pin/?username=PrideMC&repo=Minetrack&show_owner=true)](https://github.com/PrideMC/Minetrack)
    [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=CLI&show_owner=true)](https://github.com/xqwtxon/CLI)
    [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=CLI.sh&show_owner=true)](https://github.com/xqwtxon/CLI.sh)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=Logger&show_owner=true)](https://github.com/xqwtxon/Logger)
 
 </details>
 
