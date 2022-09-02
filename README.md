@@ -3,7 +3,7 @@
 <p align="center"><a href="https://github.com/xqwtxon"><img src="https://komarev.com/ghpvc/?username=xqwtxon&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a></p>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
+<i>❝“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # About Me 👋
