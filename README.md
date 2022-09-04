@@ -3,7 +3,7 @@
 <p align="center"><a href="https://github.com/xqwtxon"><img src="https://komarev.com/ghpvc/?username=xqwtxon&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a></p>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
+<i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # About Me 👋
