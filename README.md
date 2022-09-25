@@ -6,6 +6,17 @@
 <i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
+<hr>
+
+<p align="center">
+⚠ Notice ⚠<br><br>
+<i>The School is back!</i>
+<br>
+Expect <b>slow responds, and inactive commits.</b>
+</p>
+
+<hr>
+
 # About Me 👋
 <p align="center"><b>“</b>Programmer since 2016, Reverse-Engineer since 2019, I do a lot of Minecraft-related things.<b>”</b></p>
 <p align="center"><b><a href="https://xqwtxon.ml/" alt="My Website and Blogs">Website</a></b> | <b><a href="https://xqwtxon.cf/?p=youtube" alt="My Youtube Channel">Youtube</a></b> | <b><a href="https://xqwtxon.cf/?p=twitter" alt="twitter">Twitter</a></b> | <b><a href="https://xqwtxon.cf/?p=discord" alt="My Discord Account">Discord</a></b></p>
