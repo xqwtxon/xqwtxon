@@ -1,19 +1,11 @@
 <p align="center"><a href="https://github.com/xqwtxon"><img src="https://github.com/xqwtxon/xqwtxon/blob/profile/circle_icon.png"></a></p>
 
 <p align="center"><a href="https://github.com/xqwtxon"><img src="https://komarev.com/ghpvc/?username=xqwtxon&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a></p>
+<hr>
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
 <!--ENDS_HERE_QUOTE_README-->
-
-<hr>
-
-<p align="center">
-⚠ Notice ⚠<br><br>
-<i>The School is back!</i>
-<br>
-Expect <b>slow responds, and inactive commits.</b>
-</p>
 
 <hr>
 
@@ -107,7 +99,7 @@ Expect <b>slow responds, and inactive commits.</b>
   |[`@PrideMC`](https://github.com/PrideMC)|`Feb 12`|✔|![](https://avatars.githubusercontent.com/u/100106234?s=200&v=4)|Founder|
   |[`@Minco-Inc`](https://github.com/Minco-Inc)|`Apr 17`|✔|![](https://avatars.githubusercontent.com/u/93022369?s=200&v=4)|Member|
   |[`@xqwtxon-pm-pl`](https://github.com/xqwtxon-pm-pl)|`Sept 4`|✔|![](https://avatars.githubusercontent.com/u/112790582?s=200&v=4)|Founder
-
+  |[`@sjtwp`](https://github.com/sjtwp)|`Oct 8`|✔|![](https://avatars.githubusercontent.com/u/115359241?s=200&v=4)|Founder
 
 </details>
 
