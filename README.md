@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
+<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
