@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.”— Dan Hurvitz   ❞</i>
+<i>❝An Apple laptop stinks. One 2001 iBook model used a glue that, after 12-18 months, may begin to smell like human body odor. It is so strong that repairs are difficult because the smell makes people nauseous.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
