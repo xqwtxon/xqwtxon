@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you automate a mess, you get an automated mess.”— Rod Michael   ❞</i>
+<i>❝The first ever hard disk drive was made in 1979, and could hold only 5MB of data.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
