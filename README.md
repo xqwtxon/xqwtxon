@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
+<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
