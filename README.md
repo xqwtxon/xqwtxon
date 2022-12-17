@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In Data Science if you want to help individuals, be empathetic and ask questions; that way, you can begin to understand their journey, too.”— Damian Duffy Mingle❞</i>
+<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
