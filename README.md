@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.”— Mary Shaw   ❞</i>
+<i>❝IBM was so powerful in 1983 that people feared that its PCjr home computer would destroy Apple, Commodore, and all other competitors. The PCjr became “one of the biggest flops in the history of computing”.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
