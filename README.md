@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.”— Dan Hurvitz   ❞</i>
+<i>❝There was a time when AMD and Intel CPUs used the same socket (Socket 7) and could run on the same motherboard.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
