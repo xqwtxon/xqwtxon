@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
+<i>❝There are over 1.5 billion instant messaging id’s in the world over.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
