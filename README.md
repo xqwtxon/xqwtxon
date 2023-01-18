@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
+<i>❝“Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.”— Dan Hurvitz   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
