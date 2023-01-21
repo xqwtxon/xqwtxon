@@ -64,6 +64,7 @@
    [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=CLI&show_owner=true)](https://github.com/xqwtxon/CLI)
    [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=CLI.sh&show_owner=true)](https://github.com/xqwtxon/CLI.sh)
    [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=Logger&show_owner=true)](https://github.com/xqwtxon/Logger)
+   [![](https://github-readme-stats.vercel.app/api/pin/?username=xqwtxon&repo=wlk&show_owner=true)](https://github.com/xqwtxon/wlk)
 
 </details>
 
