@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   ❞</i>
+<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
