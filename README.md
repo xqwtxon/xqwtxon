@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
+<i>❝“Your most unhappy customers are your greatest source of learning.”— Bill Gates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
