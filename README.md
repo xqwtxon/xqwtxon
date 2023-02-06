@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The very first computer was an abacus invested 500 B.C in Babylon made of string and beads whose main purpose was to count.❞</i>
+<i>❝“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
