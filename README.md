@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
+<i>❝“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
