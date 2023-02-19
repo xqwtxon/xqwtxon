@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝YouTube was founded by 3 former employees of PayPal.❞</i>
+<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
