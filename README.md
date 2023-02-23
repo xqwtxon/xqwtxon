@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
+<i>❝“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
