@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
+<i>❝“As data scientists, our job is to extract signal from noise.”— Daniel Tunkelang❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
