@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”❞</i>
+<i>❝No human has won a tournament standard chess game against a high spec computer since 2005.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
