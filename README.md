@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.”— Steve McConnell❞</i>
+<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
