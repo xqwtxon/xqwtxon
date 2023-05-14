@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
+<i>❝“Your most unhappy customers are your greatest source of learning.”— Bill Gates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
