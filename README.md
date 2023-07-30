@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Standards are always out of date.  That’s what makes them standards.”— Alan Bennett   ❞</i>
+<i>❝Approximately 70% of virus writers are said to work under contract for organized crime syndicates.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
