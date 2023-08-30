@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.❞</i>
+<i>❝Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
