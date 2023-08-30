@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   ❞</i>
+<i>❝“Standards are always out of date.  That’s what makes them standards.”— Alan Bennett   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
