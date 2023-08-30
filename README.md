@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.❞</i>
+<i>❝“If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.”— Bruce Schneier  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
