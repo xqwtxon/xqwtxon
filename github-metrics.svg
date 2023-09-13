@@ -2305,7 +2305,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5883.386666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5884.213333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2327,7 +2327,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 57936 times</div>
+                                <div class="text">Repositories have been deployed 57944 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2785,7 +2785,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.02m out of 49.2m repositories</span>
+                                    <span class="gh">ranked 1.97m out of 52.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2854,7 +2854,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.82m out of 49.2m repositories</span>
+                                    <span class="gh">ranked 2.78m out of 52.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -3007,8 +3007,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">2e76bcc5</span>
-                            <span class="code">404.php</span>
+                            <span class="code">4ef00a70</span>
+                            <span class="code">index.php</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -3019,7 +3019,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,7 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">      &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;link rel="icon" type="image/png" href="assets/server-logo.png"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;title&gt;Error ─ PrideMC Network&lt;/title&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">      &lt;style&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">      &lt;style&gt; <br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">          html {<br /></span><span class="token prefix unchanged">·</span><span class="token line">		color: #fff;<br /></span><span class="token prefix unchanged">·</span><span class="token line">		background-color: #424242;
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -4,7 +4,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">      &lt;meta charset="UTF-8"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">      &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;link rel="icon" type="image/png" href="assets/server-logo.png"&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    &lt;meta name="og:title" content="PrideMC Network"&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    &lt;meta name="og:title" content="PrideMC Network"&gt; <br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;title&gt;Home ─ PrideMC Network&lt;/title&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">      &lt;style&gt;
 </span></span></code>
                         </div>
                     </section>
@@ -3027,7 +3027,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2023, 15:21:23 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2023, 16:21:30 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
