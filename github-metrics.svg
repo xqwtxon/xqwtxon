@@ -248,7 +248,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 76 commits)</small>
+                    <small class="h-details">(computed from last 78 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2320,7 +2320,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6038.386666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6039.006666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2342,7 +2342,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 59436 times</div>
+                                <div class="text">Repositories have been deployed 59442 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2484,7 +2484,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 443k out of 120m users</span>
+                                    <span class="gh">ranked 443k out of 117m users</span>
                                 </div>
                                 <div class="text">Published 60 public repositories</div>
                             </div>
@@ -2749,7 +2749,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.58m out of 120m users</span>
+                                    <span class="gh">ranked 1.58m out of 117m users</span>
                                 </div>
                                 <div class="text">Followed by 8 users</div>
                             </div>
@@ -2795,7 +2795,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.05m out of 53.3m repositories</span>
+                                    <span class="gh">ranked 2.05m out of 57.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2833,7 +2833,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.79m out of 53.3m repositories</span>
+                                    <span class="gh">ranked 2.86m out of 57.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -3006,7 +3006,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 23 Sept 2023, 00:18:28
+                            On 23 Sept 2023, 02:20:36
                         </div>
                     </section>
                 </div>
@@ -3016,14 +3016,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Fix packages intergration tests
+                            Fix protocols
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">950d50d3</span>
-                            <span class="code">src/PocketMine.php</span>
+                            <span class="code">c82e1137</span>
+                            <span class="code">src/network/mcpe/raklib/RakLibServer.php</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -3034,14 +3034,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -250,7 +250,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">	}<br /></span><span class="token prefix unchanged">·</span><span class="token line">	require_once($bootstrap);<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">	$composerGitHash = InstalledVersions::getReference('pocketmine/pocketmine-mp');<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">	$composerGitHash = InstalledVersions::getReference('hydronetwork/hydronet');<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">	if($composerGitHash !== null){<br /></span><span class="token prefix unchanged">·</span><span class="token line">		//we can't verify dependency versions if we were installed without using git<br /></span><span class="token prefix unchanged">·</span><span class="token line">		$currentGitHash = explode("-", VersionInfo::GIT_HASH())[0];</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -93,7 +93,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">$this-&gt;logger,<br /></span><span class="token prefix unchanged">·</span><span class="token line">$socket,<br /></span><span class="token prefix unchanged">·</span><span class="token line">$this-&gt;maxMtuSize,<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">new SimpleProtocolAcceptor($this-&gt;protocolVersion),<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">new MultiProtocolAcceptor($this-&gt;protocolVersion, [10, $this-&gt;protocolVersion]),<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">new UserToRakLibThreadMessageReceiver(new PthreadsChannelReader($this-&gt;mainToThreadBuffer)),<br /></span><span class="token prefix unchanged">·</span><span class="token line">new RakLibToUserThreadMessageSender(new SnoozeAwarePthreadsChannelWriter($this-&gt;threadToMainBuffer, $this-&gt;sleeperEntry-&gt;createNotifier())),<br /></span><span class="token prefix unchanged">·</span><span class="token line">new ExceptionTraceCleaner($this-&gt;mainPath)</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2023, 02:27:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2023, 03:21:34 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
