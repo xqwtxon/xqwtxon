@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
+<i>❝“The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
