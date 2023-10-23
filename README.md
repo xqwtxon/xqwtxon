@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   ❞</i>
+<i>❝“I think it is inevitable that people program poorly.  Training will not substantially help matters.  We have to learn to live with it.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
