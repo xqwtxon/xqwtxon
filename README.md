@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
+<i>❝No human has won a tournament standard chess game against a high spec computer since 2005.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
