@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The term “World Wide Web” was invented by Tim Berners in 1990.❞</i>
+<i>❝“Programs must be written for people to read, and only incidentally for machines to execute.”— Abelson and Sussman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
