@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The most likely way for the world to be destroyed, most experts agree, is by accident.  That’s where we come in; we’re computer professionals.  We cause accidents.”— Nathaniel Borenstein   ❞</i>
+<i>❝“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
