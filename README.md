@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947❞</i>
+<i>❝“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
