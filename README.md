@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   ❞</i>
+<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
