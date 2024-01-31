@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Real knowledge is to know the extent of one’s ignorance.”— Confucius   ❞</i>
+<i>❝“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
