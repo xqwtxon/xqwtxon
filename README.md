@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
+<i>❝The house where Bill Gates lives, was designed using a Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
