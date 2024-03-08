@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947❞</i>
+<i>❝According to a survey, most of the apps in your android device leaks your data, so be aware.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
