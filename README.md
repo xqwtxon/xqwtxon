@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.”— Bruce Schneier  ❞</i>
+<i>❝“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
