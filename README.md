@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   ❞</i>
+<i>❝“Maybe stories are just data with a soul.”— Brené Brown❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
