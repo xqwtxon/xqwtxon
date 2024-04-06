@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
+<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
