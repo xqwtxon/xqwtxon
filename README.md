@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝YouTube was founded by 3 former employees of PayPal.❞</i>
+<i>❝The original name of Windows was Interface Manager.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
