@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   ❞</i>
+<i>❝“There is only one problem with common sense; it’s not very common.”— Milt Bryce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
