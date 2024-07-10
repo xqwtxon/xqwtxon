@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“As data scientists, our job is to extract signal from noise.”— Daniel Tunkelang❞</i>
+<i>❝HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
