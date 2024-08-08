@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”— David Keppel   ❞</i>
+<i>❝“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
