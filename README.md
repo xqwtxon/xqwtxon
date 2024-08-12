@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   ❞</i>
+<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
