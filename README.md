@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
+<i>❝YouTube was founded by 3 former employees of PayPal.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
