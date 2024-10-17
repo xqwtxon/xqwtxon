@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
+<i>❝Amazon was a hard cover book seller, but actually now sells more e-books than hard covers❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
