@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Your most unhappy customers are your greatest source of learning.”— Bill Gates   ❞</i>
+<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
