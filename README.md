@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
+<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
